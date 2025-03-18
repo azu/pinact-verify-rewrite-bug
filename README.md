@@ -6,7 +6,7 @@
 $ brew install suzuki-shunsuke/pinact/pinact
 $ pinact --version
 pinact version 1.4.0 (ed62a78045ee6c200f8e561ac292ef9017ac19af)
-``
+```
 
 ## Reproduce Steps
 
